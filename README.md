@@ -12,4 +12,4 @@ You can also find my profile page [here](https://github.com/Pablojox)
 ### VBA
 Project link | Project summary
 ------------ | ---------------
-[Data cleaning]() | Clean data from a provided Excel file to improve usability.
+[Data cleaning](https://github.com/Pablojox/data-cleaning-vba/blob/main/README.md) | Clean data from a provided Excel file to improve usability.
