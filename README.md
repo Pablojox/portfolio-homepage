@@ -8,7 +8,7 @@ You can also find my profile page [here](https://github.com/Pablojox)
 - [VBA](#vba)
 
 ### Python
-
+Work in progess...
 ### VBA
 Project link | Project summary
 ------------ | ---------------
